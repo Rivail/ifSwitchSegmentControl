@@ -1,4 +1,4 @@
-//click in Button and chenge color
+//click in Button and change color
 
 import UIKit
 
